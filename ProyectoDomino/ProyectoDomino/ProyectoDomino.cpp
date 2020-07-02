@@ -16,7 +16,7 @@ void pantallaGanador(string jugadores[], int numJugador);
 
 
 
-//************* Modulo Principal
+//************* Modulo Principal del programa Domino
 int main()
 {
     string jugadores[4];
