@@ -6,7 +6,7 @@
 #include "mostrar.h"
 #include "jugada.h"
 
-//********** Firmas
+//********** Firmas del proyecto Dominó
 void inicio(string jugadores[]);
 void crearFichas(fichas ficha, fichas fichasDomino[]);
 void repartiFichas(fichas fichasDomino[], fichas fichasj1[]);

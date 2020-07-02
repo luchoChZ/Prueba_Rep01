@@ -1,6 +1,6 @@
 #pragma once
 
-// Mostrar las fichas de un jugador
+// Mostrar las fichas de un jugador Actual
 void mostrarFichasJugador(fichas fichasJ[], string jugadores[], int num) {
     int i=0 ;
     cout <<endl;
